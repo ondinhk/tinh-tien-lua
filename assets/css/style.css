@@ -1,0 +1,28 @@
+html{
+    font-size: 62.5%;
+}
+ul{
+    text-align: center;
+}
+ul li{
+    list-style-type: none;
+    font-size: 2rem;
+}
+.sum{
+    border-top: 1px solid black;
+    color:#e17055;
+}
+#temp_input{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2rem;
+}
+#input_value{
+    height: 30px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    font-size: 3rem;
+}
